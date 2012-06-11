@@ -1,0 +1,3 @@
+<Clients version="3.0">
+   <Client profile="basic" pingable="Y" pingtime="0" name="ec2-107-20-124-40.compute-1.amazonaws.com"/>
+<Client profile="basic" name="ip-10-204-73-182.ec2.internal"/></Clients>

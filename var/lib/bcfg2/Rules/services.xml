@@ -1,0 +1,4 @@
+<Rules priority='0'>
+  <Service name="ntpd" status="on" type='chkconfig' />
+  <Service name="mysqld" status="on"  type='chkconfig' />
+</Rules>

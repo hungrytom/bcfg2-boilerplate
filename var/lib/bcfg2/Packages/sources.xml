@@ -1,0 +1,14 @@
+<Sources>
+  <Group name="centos-5.2">
+    <Source type="yum"
+            url="http://mirror.centos.org/centos/"
+            version="5.2">
+      <Component>os</Component>
+      <Component>updates</Component>
+      <Component>extras</Component>
+      <Arch>i386</Arch>
+      <Arch>x86_64</Arch>
+      <GPGKey>http://mirror.centos.org/centos/RPM-GPG-KEY-CentOS-5</GPGKey>
+    </Source>
+  </Group>
+</Sources>

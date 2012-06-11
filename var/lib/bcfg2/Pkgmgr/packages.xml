@@ -1,0 +1,4 @@
+<PackageList type='rpm' priority='0'>
+<Package name='ntp' version='any'/>
+<Package name='mysql-server' version='any'/>
+</PackageList>

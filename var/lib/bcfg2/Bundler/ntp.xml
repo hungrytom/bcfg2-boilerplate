@@ -1,0 +1,5 @@
+<Bundle name='ntp' version='2.0'>
+<Package name='ntp'/>
+<Service name='ntpd'/>
+<Path name='/etc/ntp.conf'/>
+</Bundle>
